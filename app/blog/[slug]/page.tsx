@@ -9,5 +9,6 @@ export default function Page({ params }: Params) {
     <h1>Slug: {params.slug}</h1>
     <p>HoleTex</p>
     <p>HoleTex to HCM</p>
+    <p>HoleTex to VN</p>
   </>
 }
