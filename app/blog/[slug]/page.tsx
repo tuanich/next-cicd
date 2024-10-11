@@ -6,7 +6,8 @@ type Params = {
 
 export default function Page({ params }: Params) {
   return <>
-  <h1>Slug: {params.slug}</h1>
-  <p>HoleTex</p>
+    <h1>Slug: {params.slug}</h1>
+    <p>HoleTex</p>
+    <p>HoleTex to HCM</p>
   </>
 }
