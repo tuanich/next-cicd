@@ -8,8 +8,7 @@ export default function Page({ params }: Params) {
   return <>
     <h1>Slug: {params.slug}</h1>
     <p>HoleTex</p>
-    <p>HoleTex HN & HCM</p>
-    <p>HoleTex HN & HCM</p>
+    <p>HoleTex HN & HCM & 123</p>
 
   </>
 }
