@@ -10,5 +10,6 @@ export default function Page({ params }: Params) {
     <p>HoleTex</p>
     <p>Hole Tex to HCM</p>
     <p>Hole Tex to VN</p>
+    <p>Hole Tex to HN</p>
   </>
 }
